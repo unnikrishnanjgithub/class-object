@@ -1,0 +1,16 @@
+public class Ob5 
+{
+	int sum()
+	{
+		int a=10,b=20;
+		 int c=a+b;
+		return c;
+	}
+
+	public static void main(String[] args) 
+	{
+	Ob5 s=new Ob5();
+	System.out.println("the result is"+s.sum());
+	}
+
+}
