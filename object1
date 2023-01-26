@@ -1,0 +1,18 @@
+public class Ob1
+{
+     void  Display()
+	{
+	   System.out.println("Unni");
+	   System.out.println("karamana");
+	   System.out.println("phone no-XXXXXXXXXX");
+		
+	}
+
+	public static void main(String[] args)
+	{
+		Ob1 s=new Ob1();
+		s.Display();
+
+	}
+
+}
