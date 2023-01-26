@@ -1,0 +1,30 @@
+public class Ob4 
+{
+	String personal()
+	{
+		String n="unni";
+		System.out.println("my name is"+n);
+		String a="trivandrum";
+		System.out.println("I'm from "+a);
+	    return"";
+	    
+	}
+	
+	String educational ()
+	{
+		String b="btech graduate from MCET";
+		System.out.println("I'm a "+b);
+		return "";
+	}
+	
+
+	public static void main(String[] args) 
+	{
+		Ob4 s=new Ob4();
+		s.personal();
+		s.educational();
+		
+
+	}
+
+}
